@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @brunavitoria
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning VueJS
-- 💞️ I’m looking to collaborate on inclusion projects
 - 📫 brunavitoriati@gmail.com
 
 <!---
