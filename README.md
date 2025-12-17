@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Bruna, Web Developer, with knowledge in technologies such as PHP, Laravel, MySQL and Livewire. Graduated in Information Systems from UFSM, studying English and constantly learning. She currently works at Lumiun as a mid-level Web Developer.
+I'm Bruna, Web Developer, with knowledge in technologies such as PHP, Laravel, MySQL, Vue.js, Livewire and AWS. Graduated in Information Systems from UFSM, studying English and constantly learning. She currently works at 1Doc as a Web Developer.
 
 ## 🔧 Technologies & Tools
 
@@ -21,4 +21,4 @@ I'm Bruna, Web Developer, with knowledge in technologies such as PHP, Laravel, M
 
 - [LinkedIn](https://www.linkedin.com/in/brunavitoria/)
 - [Instagram](https://www.instagram.com/burunavitoria/)
-- [E-mail](mailto:contatobrunavitoria@gmail.com)
+- [E-mail](mailto:brunavitoriati@gmail.com)
