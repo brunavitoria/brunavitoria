@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Bruna, Web Developer, with knowledge in technologies such as PHP, Laravel, MySQL, Vue.js, Livewire and AWS. Graduated in Information Systems from UFSM, studying English and constantly learning. She currently works at 1Doc as a Web Developer.
+I'm Bruna, Web Developer, with knowledge in technologies such as PHP, Laravel, MySQL, Vue.js, Livewire and AWS. Graduated in Information Systems from UFSM, studying English and constantly learning.
 
 ## 🔧 Technologies & Tools
 
